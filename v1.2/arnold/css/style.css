@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #89cff0;
+   -moz-transform: scale(0.8, 0.8);
+   zoom: 0.8;
+   zoom: 80%;
+}
+
+#home-container {
+	margin-top: 5%;
+	background-color: #D9E053;
+	border: 3px solid black;
+	display: inline-block;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+#level-header {
+	background-color: #D9E053;
+	border: 3px solid black;
+	border-radius: 10px;
+	display: inline-block;
+	padding: 7px;
+}
+
